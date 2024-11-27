@@ -19,8 +19,8 @@ The web interface allows users to:
    - Empty cells (marked with 0)
    - Valid numbers (1-9)
    - Highlighting of any errors
-4. Use the "Перевірити" (Check) button to validate the current board
-5. Use the "Скинути" (Reset) button to clear the board
+4. Use the "Проверить" (Check) button to validate the current board
+5. Use the "Сбросить" (Reset) button to clear the board
 
 ### Test Files
 
